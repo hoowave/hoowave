@@ -70,7 +70,7 @@
 <table>
   <tr>
     <td valign="top" colspan="2">
-      <h3 align="center">📬 OS & Infra</h3>
+      <h3 align="center">📬 OS</h3>
       <p align="center">
       <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=Redhat&logoColor=white"/></a>
