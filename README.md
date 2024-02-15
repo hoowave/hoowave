@@ -66,47 +66,60 @@
 </table>
 </div>
 
-### <p align="center"> 📬 OS & Infra </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=Redhat&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" colspan="2">
+      <h3 align="center">📬 OS & Infra</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=Redhat&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>
 </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3 align="center">📤 Front-End</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+      </p>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/></a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3 align="center">📥 Back-End</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Jsp&Servlet-FF8800?style=flat-square&logo=Jsp&Servlet&logoColor=white"/></a>
+      </p>
+      <p align="center">
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/MyBatis-A100FF?style=flat-square&logo=MyBatis&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/SpringDataJPA-DD1100?style=flat-square&logo=SpringDataJPA&logoColor=white"/></a>
+      </p>
+      <p align="center">
+      <img src="https://img.shields.io/badge/SpringCloud-3693F3?style=flat-square&logo=icloud&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
+      </p>
+      <p align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
-### <p align="center"> 📥 Back-End </p>
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jsp&Servlet-FF8800?style=flat-square&logo=Jsp&Servlet&logoColor=white"/></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MyBatis-A100FF?style=flat-square&logo=MyBatis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringDataJPA-DD1100?style=flat-square&logo=SpringDataJPA&logoColor=white"/></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/SpringCloud-3693F3?style=flat-square&logo=icloud&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-</p>
-
-### <p align="center"> 📤 Front-End </p>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/></a>
-</p>
 
 ### <p align="center"> 📖 Project </p>
 <div align="center">
