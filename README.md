@@ -199,9 +199,6 @@
 - 수행 기간 : 2024.09.01 ~ 2024.10.01</br>
 - 주요 역할 : Android 개발을 위한 최신 아키텍처 기반의 템플릿 개발</br>
 - 주요 내용 : Jetpack Compose, KSP, MVVM, Hilt를 결합하여 효율적인 개발 환경 구축</br>
-  * KAPT 대신 KSP 도입으로 컴파일 시간 단축</br>
-  * Hilt를 통한 효율적인 의존성 주입</br>
-  * MVVM 아키텍처 패턴 적용</br>
 - 사용 기술 : Kotlin, Jetpack Compose, KSP, Hilt, MVVM</br>
 <h3><a href="https://github.com/hoowave/aos-ksp-hilt">Android 개발 템플릿 👉</a></h3>
 </details>
