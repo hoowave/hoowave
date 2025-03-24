@@ -165,7 +165,7 @@
 <h3 align="center">🔷 대표 프로젝트</h3>
 <details>
 <summary><strong>Toolbox</strong></summary>
-- 수행 기간 : 2024.02.01 ~ 현재</br>
+- 수행 기간 : 2025.02.01 ~ 현재</br>
 - 주요 역할 : 백엔드 API 서버 개발, 프론트엔드 인터페이스 구현 및 AWS 배포</br>
 - 주요 내용 : 누구나 필요한 서비스를, 누구나 쉽게 사용할 수 있도록 만드는 프로젝트</br>
 <h3><a href="https://github.com/hoowave/toolbox-backend">Backend 👉</a> | <a href="https://github.com/hoowave/toolbox-frontend">Frontend 👉</a></h3>
