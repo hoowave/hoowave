@@ -181,7 +181,7 @@
 <h3><a href="https://github.com/hoowave/SecuriSuite">SecuriSuite 👉</a></h3>
 </details>
 <br>
-<h3 align="center">🔷 소규모 프로젝트</h3>
+<h3 align="center">🔷 토이 프로젝트</h3>
 
 
 <details>
