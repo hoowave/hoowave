@@ -72,6 +72,8 @@
 </div>
 <br>
 
+## <p align="center"> 💻 경험 기술 </p>
+
 <div align="center">
 <table>
   <tr>
