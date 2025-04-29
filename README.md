@@ -3,7 +3,7 @@
 <a href="http://hoowave.dothome.co.kr"><img src="https://img.shields.io/badge/Link-Site-blue"/></a>
 ![https://komarev.com/ghpvc/?username=hoowave](https://komarev.com/ghpvc/?username=hoowave)
 
-## <p align="center"> 효율과 가용성을 추구하는 백엔드 개발자 장상훈입니다. 😆 </p>
+## <p align="center"> 보안이 필요한 곳에 개발로 답하는 엔지니어 장상훈 입니다.</p>
 
 <div align="center">
 <table>
@@ -76,6 +76,27 @@
 
 <div align="center">
 <table>
+  <tr>
+    <td valign="top" colspan="2">
+      <h3 align="center">🔒 Cyber Security</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/WebGoat-FF0000?style=flat-square&logo=webgoat&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white"/></a>
+      </p>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=flat-square&logo=reverseengineering&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square&logo=burpsuite&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/></a>
+      </p>
+      <p align="center">
+      <img src="https://img.shields.io/badge/SQLMap-000000?style=flat-square&logo=sqlmap&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/CVE--2017--0143-000000?style=flat-square&logo=cve&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/MSFvenom-000000?style=flat-square&logo=metasploit&logoColor=white"/></a>
+      </p>
+      <br>
+    </td>
+  </tr>
   <tr>
     <td valign="top" colspan="2">
       <h3 align="center">📬 OS</h3>
