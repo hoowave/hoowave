@@ -80,19 +80,13 @@
     <td valign="top" colspan="2">
       <h3 align="center">🔒 Cyber Security</h3>
       <p align="center">
-      <img src="https://img.shields.io/badge/WebGoat-FF0000?style=flat-square&logo=webgoat&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/WebGoat-000000?style=flat-square&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/DVWA-000000?style=flat-square"/></a>
       </p>
       <p align="center">
-      <img src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=flat-square&logo=reverseengineering&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square&logo=burpsuite&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/></a>
-      </p>
-      <p align="center">
-      <img src="https://img.shields.io/badge/SQLMap-000000?style=flat-square&logo=sqlmap&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/CVE--2017--0143-000000?style=flat-square&logo=cve&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/MSFvenom-000000?style=flat-square&logo=metasploit&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Reverse%20Engineering-CC0000?style=flat-square&logo=ghidra&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Frida-5C6BC0?style=flat-square&logo=frida&logoColor=white"/></a>
       </p>
       <br>
     </td>
@@ -136,26 +130,22 @@
       <h3 align="center">📥 Back-End</h3>
       <p align="center">
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Jsp&Servlet-FF8800?style=flat-square&logo=Jsp&Servlet&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-      </p>
-      <p align="center">
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/SpringCloud-3693F3?style=flat-square&logo=icloud&logoColor=white"/></a>
       </p>
       <p align="center">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
+      </p>
+      <p align="center">
       <img src="https://img.shields.io/badge/MyBatis-A100FF?style=flat-square&logo=MyBatis&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/SpringDataJPA-DD1100?style=flat-square&logo=SpringDataJPA&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
       </p>
       <p align="center">
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
-      </p>
-      <p align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
       </p>
       <br>
     </td>
@@ -164,16 +154,13 @@
     <td valign="top" colspan="2">
       <h3 align="center">📤 Mobile & Front-End</h3>
       <p align="center">
-      <img src="https://img.shields.io/badge/Android%20Jetpack%20Compose-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-      </p>
-      <p align="center">
-      <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
       </p>
-      <br>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Android%20Jetpack%20Compose-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -185,8 +172,17 @@
 
 <h3 align="center">🔷 대표 프로젝트</h3>
 <details>
+<summary><strong>Netty & Hibernate TCP Server</strong></summary>
+- 수행 기간 : 2025.04.01 ~ 2025.05.01</br>
+- 주요 역할 : 고성능 패킷 기반 TCP 서버 설계 및 구현</br>
+- 주요 내용 : Netty의 비동기 이벤트 루프와 Hibernate 기반 영속성을 결합하고, 헥사고날 아키텍처를 적용하여 도메인 로직과 인프라를 분리한 확장 가능한 서버 아키텍처 구현</br>
+<h3><a href="https://github.com/hoowave/Netty-Hibernate-TCP-Server">Netty & Hibernate TCP Server 👉</a></h3>
+</details>
+<br>
+
+<details>
 <summary><strong>Toolbox</strong></summary>
-- 수행 기간 : 2025.02.01 ~ 현재</br>
+- 수행 기간 : 2025.02.01 ~ 2025.04.01</br>
 - 주요 역할 : 백엔드 API 서버 개발, 프론트엔드 인터페이스 구현 및 AWS 배포</br>
 - 주요 내용 : 누구나 필요한 서비스를, 누구나 쉽게 사용할 수 있도록 만드는 프로젝트</br>
 <h3><a href="https://github.com/hoowave/toolbox-backend">Backend 👉</a> | <a href="https://github.com/hoowave/toolbox-frontend">Frontend 👉</a></h3>
@@ -255,7 +251,7 @@
 
 <details>
 <summary><strong>프로그래밍의 첫 걸음 - 장뽕뽕 사이트</strong></summary>
-- 수행 기간 : 2023.01.01 ~ 현재</br>
+- 수행 기간 : 2023.01.01 ~ 2023.03.01</br>
 - 주요 역할 : 화면 설계 및 서비스기획</br>
 - 업무 성과 : 웹에서 마우스 클릭을 통해 광물을 캐고, 얻은 돈으로 무기를 사고 강화할 수 있는</br>
 "광물 캐서 무기 강화하기" 콘셉트의 게임 및 커뮤니티 사이트 제작 및 운영중</br>
@@ -263,4 +259,3 @@
 </details>
 
 </div>
-
