@@ -1,6 +1,7 @@
-<a href="https://linktr.ee/hoowave"><img src="https://img.shields.io/badge/Link-linktree-blue"/></a>
-<a href="https://blog.naver.com/ma5ter"><img src="https://img.shields.io/badge/Link-blog-blue"/></a>
-<a href="http://hoowave.dothome.co.kr"><img src="https://img.shields.io/badge/Link-Site-blue"/></a>
+<a href="https://linktr.ee/hoowave"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white"/></a>
+<a href="https://blog.naver.com/ma5ter"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://hoowave.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://dev.hoowave.org"><img src="https://img.shields.io/badge/Website-00BFFF?style=flat-square&logo=macys&logoColor=white"/></a>
 ![https://komarev.com/ghpvc/?username=hoowave](https://komarev.com/ghpvc/?username=hoowave)
 
 ## <p align="center"> 보안이 필요한 곳에 개발로 답하는 엔지니어 장상훈 입니다.</p>
